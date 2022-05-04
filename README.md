@@ -9,6 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.instagram.com/the_real_fleischmann/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="instagram" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
